@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeevana Sruthi</h1>
 
 <h3 align="center">
-  Software Developer | Java • React • Spring Boot • TypeScript
+  Full-Stack Developer | Java • React • Spring Boot • TypeScript
 </h3>
 
 <p align="center">
