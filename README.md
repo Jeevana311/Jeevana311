@@ -160,7 +160,7 @@ A responsive personal portfolio website showcasing my skills, projects, experien
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3A506B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevanasruthiperikala)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A4E69?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-d7p0.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A4E69?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeevana-portfolio-one.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeevana311)
 [![Email](https://img.shields.io/badge/Email-5C677D?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jeevanasruthiperikala@gmail.com)
 
