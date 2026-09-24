@@ -79,6 +79,15 @@ A deployed web project developed as part of my practical development experience.
 
 ---
 
+### 🏡 Real Estate — HomeNest
+
+A real estate marketplace web application designed to explore property listings and modern real estate experiences.
+
+🔗 **Repository:** [View Code](https://github.com/Jeevana311/HomeNest)  
+🌐 **Live Demo:** [View Live](https://home-nest-topaz.vercel.app/)
+
+---
+
 ### 🛍️ E-Commerce
 
 An e-commerce web application built to explore modern shopping experiences and web development concepts.
